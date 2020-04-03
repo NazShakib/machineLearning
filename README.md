@@ -1,5 +1,5 @@
 # machineLearning
 
-# Copy Right @ Super Data Science 
+## Copy Right @ Super Data Science 
 
-#Link: https://www.superdatascience.com/pages/machine-learning  
+## Link: https://www.superdatascience.com/pages/machine-learning  
